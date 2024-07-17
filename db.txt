@@ -1,1 +1,1 @@
-{"73221":{"id":73221,"name":"generic_graphic","type":"postgresql","configs":{"default":{"host":"172.26.196.242","username":"devdba","password":"Eq4nwRhNAnUf","database":"generic_graphic","port":"5432"}},"projectId":4835000}}
+{"73221":{"id":73221,"name":"generic_graphic","type":"postgresql","configs":{"default":{"host":"172.26.196.242","username":"devdba","password":"****","database":"generic_graphic","port":"5432"}},"projectId":4835000}}
